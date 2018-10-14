@@ -1,9 +1,7 @@
-//
-//  CustomCells.swift
-//  StarCraft 2 Build Timer
-//
-//  Created by Joe Carmody  on 8/1/18.
-//  Copyright © 2018 Joe Carmody . All rights reserved.
-//
+import UIKit
 
-import Foundation
+//Removed several features, table cell was getting cluttered
+//I left this in in case I want to add more later
+class CustomCells: UITableViewCell {
+    @IBOutlet weak var customTitleLabel: UILabel!
+}

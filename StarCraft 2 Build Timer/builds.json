@@ -1,0 +1,106 @@
+ [
+             
+ {
+ "Title" : "Build Order to counter very agressive Terran",
+ "Race" : "P",
+ "Matchup" : "PvT",
+ "Link" : "https://lotv.spawningtool.com/build/77581/",
+ "Video" : "https://youtu.be/0Qt8-2ynOf8",
+ "Description" :
+    "Welcome in this tutorial about playing against a very aggressive terran (in French). After watching this guide, you will know how to play against this kind of player without a lot of micro. The build order that is used id dedicated to Protoss vs terran. This tutorial explain you each step and each reaction that you can use to hold things like : fast banshee, tank marines all-in, scv pull etc. Don't underestimate recall to save units - Play with fast robotic - Be ready for drops - Goal : 3 Colossie then switch to zealots, immortals, archons - Double forge as soon as you counter a big push - If you have not enough mana on High templar when a big attack come : Make some archons - Battery shields is a must have against every all-ins ",
+ "Supply":["12","13","14","14","15","15","16","17","18","18","18","20","20","20","21","21","22","23","23","27","32","35","36","38","40","41","46","47","49","49","49","50","53","55","59","62","62","62","63","64","72","74","74","78","82","84","91","91","92","96","97","101","101","103","110","110","110","110","119","120","124","124","124"],
+ "Time":["0:01","0:13","0:19","0:22","0:33","0:40","0:44","0:55","1:03","1:04","1:11","1:28","1:40","1:44","1:49","1:56","2:03","2:11","2:19","2:41","3:09","3:22","3:32","3:45","3:51","3:57","4:08","4:24","4:26","4:32","4:35","4:48","5:07","5:20","5:41","5:56","6:07","6:23","6:29","6:50","7:08","7:10","7:12","7:19","7:43","7:51","8:09","8:16","8:21","8:37","8:43","8:52","8:53","9:05","9:13","9:18","9:20","9:23","9:33","9:45","9:50","9:55","9:57"],
+ "Action":["Probe","Probe","Pylon","Probe","Probe","Gateway","Probe","Probe","Probe","Assimilator","Probe","Nexus","Cybernetics Core","Probe","Assimilator","Probe","Pylon","Stalker","Warp Gate","Stalker","Robotics Facility","Pylon","Gateway","Gateway","Immortal","Shield Battery","Robotics Bay","Assimilator x2","Observer","Pylon","Stalker","Colossus","Stalker","Gravitic Drive","Observer","Observer","Pylon","Warp Prism","Stalker x3","Colossus","Nexus","Forge x2","Stalker x2","Extended Thermal Lance","Protoss Ground Weapons Level 1, Protoss Ground Armor Level 1","Colossus","Photon Cannon x2","Gateway x2","Photon Cannon","Twilight Council, Zealot","Zealot x2","Shield Battery","Immortal","Zealot x2","Templar Archives","Shield Battery","Zealot x2","Protoss Ground Armor Level 2","Protoss Ground Weapons Level 2","Zealot","Photon Cannon x2","Photon Cannon","Psionic Storm"]
+},
+{
+  "Title" : "Hellraiser's Sentry first into blink disruptor",
+  "Race" : "P",
+  "Matchup" : "PvP",
+  "Link" : "https://lotv.spawningtool.com/build/78592/",
+  "Video" : "NoVideoAvailable",
+  "Description" : "Homestory Cup continues to be a fresh supply of wonderful replays and build orders. While this guide isn't inspired by a top GSL Korean player, it is someone who maybe you aren't quite familiar with if you don't pay attention to the 2nd tier of foreign players. Hellraiser is a Ukrainian Protoss who has been making a decent splash towards the top of EU recently. While most people would recognize players like ShoWTimE, Harstem, or PtitDrogo as the resident tier 1 EU Protoss, Hellraiser is trailing very close behind them and has been putting up solid results. He's especially been quite strong in PvP including a 2-0 over ShoWTimE in the WCS Austin Challenger groups. He also just barely missed out on making the playoff bracket at HSC in the tough Group C. I also see him and Harstem practicing a lot on Harstem's stream trading games all the time.\nFrom him we get to see, what I guess, is a continuation from last week where we do some more blink disruptor play! With how popular Stargate builds have been lately (seriously, the amount of games I had to go through to not find a Stargate variation was absurd) there has been some blink builds also coming back to try and gain an advantage vs them. This Sentry first version with a few extra Stalkers out helps to do that in the safest way possible. ",
+  "Supply":["12","13","14","14","16","16","16","17","18","18","18","19","20","20","21","21","22","23","24","28","28","32","32","36","36","36","36","38","42","46","52","52","54","56","57","58","67","70","77","77","79","88","90","93","98","109","109","112","112","136"],
+  "Time":["0:01","0:13","0:17","0:24","0:32","0:37","0:40","0:47","0:50","0:55","0:58","1:07","1:15","1:19","1:27","1:31","1:39","1:55","2:04","2:09","2:30","2:51","3:02","3:17","3:26","3:31","3:34","4:05","4:25","4:51","4:55","4:58","5:03","5:15","5:23","5:34","6:01","6:05","6:23","6:31","6:45","6:58","7:14","7:16","7:37","7:53","8:04","8:09","8:14","9:08"],
+  "Action":["Probe","Probe","Pylon","Probe","Probe","Gateway","Probe","Assimilator","Probe","Assimilator","Probe","Probe","Gateway","Probe","Cybernetics Core","Probe","Pylon","Warp Gate","Stalker, Sentry","Pylon","Stalker x2","Nexus","Stalker x2","Twilight Council","Shield Battery","Pylon","Blink","Robotics Facility","Forge","Stalker x2","Observer","Protoss Ground Weapons Level 1","Assimilator x2","Pylon","Robotics Bay","Stalker x2","Stalker","Disruptor","Gateway x2","Robotics Facility, Disruptor","Protoss Ground Weapons Level 2","Disruptor","Disruptor","Nexus","Disruptor","Disruptor","Disruptor","Assimilator","Assimilator","Gateway x3"]
+  },
+  {
+  "Title" : "herO's Immortal Drop",
+  "Race" : "P",
+  "Matchup": "PvZ",
+  "Link" : "https://lotv.spawningtool.com/build/79208/",
+  "Video" : "https://youtu.be/NxrrcxI1cRI?t=675",
+  "Description" : "herO's BACK in Code S and he's already giving us some wonderful fun new builds to try out on the ladder. Despite not making it into Code S last season, he seems to be in good form as he advanced to the Ro16 the other week in stylish fashion. He showed a few interesting new PvZ builds against Solar (poor guy keeps getting innovated on. First Zest now herO) that were a refreshing sight after weeks and months of Stargate into archon drop variations. I'm amazed to say it, but herO legitimately won with a Soul Train in 2018. Not only did he bring back a Soul Train, but he did so in an extremely interesting and intelligent way that revolves around how early game Zerg scouting works in the current meta. While the push is designed to kill (and it should have vs Solar) sometimes it can be held, and herO followed it up with possibly the sexiest choice he could have gone for: Disruptors. So while the transition is not exactly something that should be happening, I suppose I'm continuing the combo of disruptor style BotWs with a rare PvZ edition as well.",
+  "Supply":["12","13","14","15","16","16","16","17","17","18","19","20","20","20","21","21","21","23","26","26","29","33","38","39","47","47","48","49","54","54","58","58","62","62","62","67","67","67","79","85","95","101"],
+  "Time":["0:01","0:13","0:17","0:24","0:32","0:37","0:40","0:47","0:51","1:03","1:15","1:23","1:34","1:36","1:43","1:48","1:51","2:01","2:23","2:28","2:34","2:58","3:11","3:13","3:34","3:37","3:43","3:48","4:07","4:08","4:14","4:16","4:34","4:44","4:46","4:56","4:59","5:13","5:35","5:56","6:00","6:17"],
+  "Action":["Probe","Probe","Pylon","Probe","Probe","Gateway","Probe","Assimilator","Probe","Probe","Probe","Nexus","Cybernetics Core","Probe","Assimilator","Probe","Pylon","Adept","Warp Gate","Stalker","Robotics Facility","Adept","Immortal","Pylon","Gateway","Assimilator x2","Immortal","Pylon","Sentry","Pylon","Warp Prism","Gateway x2","Gateway x2","Observer","Sentry x2","Immortal","Gateway x2","Sentry x4","Sentry x3","Zealot x5","Stalker x3","Stalker x4"]
+  },
+  {
+  "Title" : "Terradin",
+  "Race" : "T",
+  "Matchup": "TvP",
+  "Link" : "https://lotv.spawningtool.com/build/80303/",
+  "Video" : "NoVideoAvailable",
+  "Description" : "No description given, only a link to a replay:\nhttps://lotv.spawningtool.com/40017/",
+  "Supply":["12","13","14","14","15","15","16","16","17","18","19","19","20","20","21","21","21","22","22","22","24","24","27","27","28","28","28","30","30","34","34","34","39","41","41","48","52","58","59","61","64","66","70","70","70","70","59","59","59","59","60","60","60","79","106","116"],
+  "Time":["0:01","0:13","0:17","0:25","0:39","0:40","0:45","0:51","1:03","1:15","1:28","1:29","1:45","1:53","1:59","2:09","2:14","2:17","2:25","2:26","2:46","2:48","2:57","3:05","3:11","3:14","3:19","3:33","3:34","3:46","3:51","3:53","3:59","4:15","4:16","4:26","4:39","4:47","4:59","5:00","5:16","5:21","5:47","5:53","5:56","6:18","6:24","6:27","6:28","6:29","6:36","6:38","6:39","7:16","8:01","8:08"],
+  "Action":["SCV","SCV","Supply Depot","SCV","SCV","Barracks","Refinery","SCV","SCV","SCV","Orbital Command","Reaper","Command Center","SCV","Barracks","Barracks Reactor","SCV","Supply Depot","Barracks","SCV","Marine x2","Barracks Tech Lab","Orbital Command","Engineering Bay, Bunker","Stimpack","Barracks Tech Lab","Marine x3","Combat Shields","Marine x2","Refinery","Supply Depot","Marine x3","Terran Infantry Weapons Level 1","Supply Depot","Marauder x2","Supply Depot","Marauder x2","Refinery","Concussive Shells","Marauder","Factory","Marauder, Barracks x2","Barracks","Terran Infantry Armor Level 1","Marauder, Reaper","Marauder","Barracks Tech Lab","Factory Reactor","Marauder","Starport","Barracks Tech Lab","Barracks Reactor","Marauder","Medivac x2","Medivac","Medivac"]
+  },
+  {
+  "Title" : "SCAnalysT - Analysis of how to go mech in TvT",
+  "Race" : "T",
+  "Matchup": "TvT",
+  "Link" : "https://lotv.spawningtool.com/build/72733/",
+  "Video" : "https://www.youtube.com/watch?v=2Ijc7rgyz7M&t=12s",
+  "Description" : "Builds like this one have been getting a lot of traction over time, and I decided to do an analysis based on some pro replays I found on how to go Mech in tvt with a cyclone mid-game!\nHighlights:\nVs a double gas opening - get an engineering bay at 3:30 and make your third base in your natural. Get two additional factories asap followed by double armory.\nVs another Mech player - get a single early armory followed up by two additional factories and another armory\nVs a Bio player - Get two additional factories and two armories ",
+  "Supply":["12","13","14","14","15","15","16","16","17","18","19","19","20","20","20","21","21","21","22","22","24","30","31","35","39","44","44","46","51","51","58","59","59","59","65","67","67","67","67","67","73","74","74","76","76","78","78","87","89","92","97","99","104","104","117","115","119","119","124","126","126","130","130","142","153","159","159","161","165","171"],
+  "Time":["0:01","0:13","0:17","0:25","0:28","0:38","0:45","0:52","1:04","1:16","1:31","1:32","1:44","1:54","1:57","2:06","2:09","2:13","2:16","2:22","2:47","2:57","3:08","3:26","3:40","3:43","3:48","3:58","4:06","4:15","4:31","4:40","4:42","4:45","5:12","5:17","5:18","5:22","5:37","5:40","5:46","5:53","5:54","6:05","6:06","6:11","6:21","6:31","6:38","6:43","6:54","7:01","7:23","7:24","7:42","7:44","7:53","7:56","8:11","8:14","8:17","8:23","8:25","8:45","8:52","9:01","9:06","9:16","9:34","9:50"],
+  "Action":["SCV","SCV","Supply Depot","SCV","Refinery","SCV","Barracks","SCV","SCV","SCV","Orbital Command","Reaper","Command Center","Factory","SCV","Barracks Reactor","SCV","Supply Depot","Refinery","SCV","Hellion, Cyclone","Orbital Command","Supply Depot, Cyclone","Cyclone","Cyclone","Supply Depot","Refinery x2","Cyclone","Supply Depot","Cyclone","Armory","Command Center","Engineering Bay","Cyclone","Missile Turret","Factory x2","Terran Vehicle Weapons Level 1","Armory","Missile Turret","Cyclone x2","Starport","Orbital Command","Barracks Reactor","Sensor Tower","Factory Tech Lab x2","Terran Vehicle And Ship Armor Level 1","Cyclone","Refinery x2","Siege Tank x2","Hellion","Factory x2","Viking","Siege Tank x2","Hellion x2","Factory Tech Lab x2","Viking x2","Hellion x2","Terran Vehicle Weapons Level 2","Command Center","Viking x2","Terran Vehicle And Ship Armor Level 2","Starport x2, Hellion x4","Infernal Pre-Igniter","Viking x2","Siege Tank x2","Starport Tech Lab x2","Fusion Core","Sensor Tower","Corvid Reactor, Viking x3","Siege Tank x2"]
+  },
+  {
+  "Title" : "PiGs Mech TvZ",
+  "Race" : "T",
+  "Matchup": "TvZ",
+  "Link" : "https://lotv.spawningtool.com/build/72230/",
+  "Video" : "https://www.youtube.com/watch?v=pNFgwmZgI5Q",
+  "Description" : "Pretty straightforward mech build with many details that can improve your play.\nNotes\nHitting a crisp hellbat-cyclone timing is key as that's your first real pressure. I tend to use a non cloak banshee with it as a bit of bonus damage and of course to keep me safe against rushes. However if you prefer 2 banshees and cloak, or a liberator, or even a raven, any of those can work also.\nScan their hive timing and make sure you have 4-8 vikings ready when vipers are out and that you spread your tanks way more at this stage onwards.\nRecycle medivacs from thor drops to elevate hellions/hellbats into the main base. Counter-attack the far out expansions with hellions and the occasional liberator also.\nKey order: 1. Banshee 2. 2 Cyclones 3. +1 weapons 4. 2nd + 3rd factory (swap onto the barracks and starport tech labs) 5. rax and starport swap off and build reactors 6. 2 thors and 2 medivacs 7. 2nd armoury and 4th factory (on rax reactor) 8. 3-4 more factories with tech labs",
+  "Supply":["12","13","14","14","15","15","16","16","17","18","19","20","20","20","20","22","22","23","23","23","26","26","26","26","31","37","37","41","41","48","52","55","55","61","61","62","64","68","68","68","68","71","71","66","65","60","73","78","90","94","102","106","107","108","116","118","124","129","136","140","140","143","146","146","153","153","153","166","166"],
+  "Time":["0:01","0:13","0:17","0:25","0:39","0:41","0:45","0:51","1:03","1:15","1:29","1:40","1:49","1:56","2:00","2:04","2:08","2:11","2:20","2:22","2:51","2:55","3:03","3:05","3:25","3:34","3:36","3:49","3:53","4:06","4:15","4:31","4:32","4:40","4:44","4:47","5:13","5:22","5:26","5:27","5:28","6:01","6:02","6:07","6:13","6:18","6:27","6:38","7:01","7:12","7:22","7:26","7:32","7:37","7:51","8:01","8:09","8:23","8:38","8:41","8:42","8:55","9:13","9:15","9:19","9:21","9:22","9:34","9:44"],
+  "Action":["SCV","SCV","Supply Depot","SCV","SCV","Barracks","Refinery","SCV","SCV","SCV","Orbital Command, Reaper","Command Center","Supply Depot","SCV","Marine","Factory","SCV","Refinery","SCV","Barracks Reactor","Starport","Orbital Command","Hellion x2","Barracks Tech Lab","Hellion x2","Supply Depot","Viking","Supply Depot","Hellion x2","Banshee","Command Center","Cyclone x2","Armory","Refinery x2","Supply Depot","Barracks Tech Lab","Hellion x2","Factory x2","Starport Reactor","Orbital Command","Barracks Reactor","Terran Vehicle Weapons Level 1","Hellion x2","Factory","Orbital Command","Thor x2","Medivac x2, Refinery x2","Armory","Siege Tank","Siege Tank","Viking","Terran Vehicle And Ship Armor Level 1","Factory x3","Siege Tank","Siege Tank","Viking","Siege Tank","Siege Tank","Factory Tech Lab x3","Siege Tank","Command Center","Siege Tank","Thor","Engineering Bay","Terran Vehicle Weapons Level 2","Terran Vehicle And Ship Armor Level 2","Siege Tank x2","Refinery x2","Viking x2"]
+  },
+  {
+  "Title" : "Anti Cannon Rush - SWARMHOST",
+  "Race" : "Z",
+  "Matchup": "ZvP",
+  "Link" : "https://lotv.spawningtool.com/build/78587/",
+  "Video" : "https://www.youtube.com/watch?v=Bvk7CGYc8SM",
+  "Description" : "Did you run into another Protoss who opens with a Pylon at your natural into mass Cannon / Shield Battery / Stalker / Immortal? Well I have the answer to your troubles! Enjoy the defensive 1 Base approach that will show your Opponent the Strength of Roaches, Swarmhosts and Nydus Worms.\n\nThe Goals of the Build are the following:\n\nsurvive on minimal amounts of defense,\nSkip Lings --> Go Roaches to maximize Larva efficiency,\nget a fast 1 Base Economy going,\nget a spines as primary early game defense,\nget Queens to deal with Warp Prisms / Spread Creep / Transfuse,\nget a Nydus to Counter with Roaches / Swarmhosts\nDESTROY HIS MAIN AND THEN FREE YOURSELVES\nthen nydus the entire map to Harrass him\n\nFor a general BO Check Analysis / VOD\n\nI stream regularly at https://www.twitch.tv/railgan :)",
+  "Supply":["12","13","13","14","17","17","17","17","16","17","19","22","21","21","21","21","23","26","28","29","30","30","34","34","34","39","39","39","39","39","45","47","42","42","47","47","53","53","57","63","65","71","71","76","79","86","83","85"],
+  "Time":["0:01","0:12","0:17","0:31","0:53","0:57","0:58","0:59","1:10","1:27","1:45","1:48","1:55","1:58","2:06","2:24","2:30","2:45","2:53","3:03","3:14","3:15","3:20","3:41","3:45","3:53","4:03","4:04","4:20","4:41","4:47","5:05","5:14","5:19","5:24","5:39","5:54","6:19","6:32","6:44","6:51","7:17","7:20","7:30","7:49","8:18","8:42","9:25"],
+  "Action":["Drone","Overlord","Drone","Drone x3","Hatchery","Extractor x2","Spawning Pool","Drone x2","Drone","Drone x2","Queen","Roach Warren","Spine Crawler","Zergling x2","Overlord","Queen","Roach","Roach","Overlord","Lair","Ravager x2","Roach","Overlord","Spine Crawler","Ravager, Roach x2","Overlord","Nydus Network","Overseer","Infestation Pit","Nydus Canal, Roach x3","Roach","Overseer","Swarm Host","Overseer","Spine Crawler","Swarm Host x2","Nydus Canal","Roach","Swarm Host x2","Queen","Nydus Canal","Swarm Host","Queen","Swarm Host","Swarm Host","Swarm Host","Queen","Hatchery"]
+  },
+  
+  {
+  "Title" : "Scarlett Nydus - Cheese",
+  "Race" : "Z",
+  "Matchup": "ZvT",
+  "Link" : "https://lotv.spawningtool.com/build/80293/",
+  "Video" : "NoVideoAvailable",
+  "Description" : "Roach",
+  "Supply":["16","21","36","35","43","44","48","46","46","50","64","66"],
+  "Time":["0:51","2:00","2:57","2:45","3:20","3:30","4:00","3:45","3:49","4:15","4:40","4:41"],
+  "Action":["Hatchery","Queen x2","Lair","Queen","Extractor","Queen","Queen","Roach Warren","Nydus Canal","Queen","Nydus Network","Roach x7"]
+  },
+  {
+  "Title" : "LINGCHEESE",
+  "Race" : "Z",
+  "Matchup": "ZvZ",
+  "Link" : "https://lotv.spawningtool.com/build/75193/",
+  "Video" : "NoVideoAvailable",
+  "Description" : "Make Zerglings, attack move.",
+  "Supply":["12","13","13","14","16","16","15","16","16","17","19","19","20","20","20","22","23","24","26","27","31","31","35","35"],
+  "Time":["0:01","0:13","0:20","0:31","0:41","0:46","0:50","1:12","1:18","1:36","1:41","1:46","1:52","2:02","2:07","2:19","2:24","2:31","2:39","2:46","3:06","3:11","3:38","3:44"],
+  "Action":["Drone","Overlord","Drone","Drone x3","Extractor","Spawning Pool","Drone","Hatchery","Drone x2","Queen","Zergling x2","Metabolic Boost","Overlord","Baneling Nest","Zergling x6","Zergling x2","Zergling x2","Zergling x4","Zergling x2","Zergling x8","Baneling x5","Drone x4","Overlord","Extractor x2, Drone x2"]
+  }
+
+]
+

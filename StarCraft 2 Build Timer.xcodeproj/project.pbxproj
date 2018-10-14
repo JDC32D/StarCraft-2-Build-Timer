@@ -7,13 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D93705742107965C00FFDB03 /* builds.json in Resources */ = {isa = PBXBuildFile; fileRef = D93705732107965C00FFDB03 /* builds.json */; };
+		D9370578210924D400FFDB03 /* JSONReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9370577210924D400FFDB03 /* JSONReader.swift */; };
+		D937057A210927B800FFDB03 /* BuildsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9370579210927B800FFDB03 /* BuildsViewController.swift */; };
+		D95061B221125A7A0086DAE9 /* CustomCells.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95061B121125A7A0086DAE9 /* CustomCells.swift */; };
+		D95061B4211261700086DAE9 /* BuildsDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95061B3211261700086DAE9 /* BuildsDetailViewController.swift */; };
+		D95061B62113A6EB0086DAE9 /* TimerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95061B52113A6EB0086DAE9 /* TimerViewController.swift */; };
 		D95D596C210158D900AE53DD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95D596B210158D900AE53DD /* AppDelegate.swift */; };
-		D95D596E210158D900AE53DD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95D596D210158D900AE53DD /* ViewController.swift */; };
+		D95D596E210158D900AE53DD /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95D596D210158D900AE53DD /* LoginViewController.swift */; };
 		D95D5971210158D900AE53DD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D95D596F210158D900AE53DD /* Main.storyboard */; };
 		D95D59732101590A00AE53DD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D95D59722101590A00AE53DD /* Assets.xcassets */; };
 		D95D59762101590A00AE53DD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D95D59742101590A00AE53DD /* LaunchScreen.storyboard */; };
 		D95D59812101590A00AE53DD /* StarCraft_2_Build_TimerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95D59802101590A00AE53DD /* StarCraft_2_Build_TimerTests.swift */; };
 		D95D598C2101590B00AE53DD /* StarCraft_2_Build_TimerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95D598B2101590B00AE53DD /* StarCraft_2_Build_TimerUITests.swift */; };
+		D95D599A21039DD900AE53DD /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95D599921039DD900AE53DD /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,9 +41,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D93705732107965C00FFDB03 /* builds.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = builds.json; sourceTree = "<group>"; };
+		D9370577210924D400FFDB03 /* JSONReader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JSONReader.swift; sourceTree = "<group>"; };
+		D9370579210927B800FFDB03 /* BuildsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildsViewController.swift; sourceTree = "<group>"; };
+		D95061B121125A7A0086DAE9 /* CustomCells.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCells.swift; sourceTree = "<group>"; };
+		D95061B3211261700086DAE9 /* BuildsDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildsDetailViewController.swift; sourceTree = "<group>"; };
+		D95061B52113A6EB0086DAE9 /* TimerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerViewController.swift; sourceTree = "<group>"; };
 		D95D5968210158D800AE53DD /* StarCraft 2 Build Timer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "StarCraft 2 Build Timer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D95D596B210158D900AE53DD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D95D596D210158D900AE53DD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		D95D596D210158D900AE53DD /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		D95D5970210158D900AE53DD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D95D59722101590A00AE53DD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D95D59752101590A00AE53DD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -47,6 +60,7 @@
 		D95D59872101590B00AE53DD /* StarCraft 2 Build TimerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "StarCraft 2 Build TimerUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D95D598B2101590B00AE53DD /* StarCraft_2_Build_TimerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarCraft_2_Build_TimerUITests.swift; sourceTree = "<group>"; };
 		D95D598D2101590B00AE53DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D95D599921039DD900AE53DD /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,11 +112,18 @@
 			isa = PBXGroup;
 			children = (
 				D95D596B210158D900AE53DD /* AppDelegate.swift */,
-				D95D596D210158D900AE53DD /* ViewController.swift */,
+				D95061B3211261700086DAE9 /* BuildsDetailViewController.swift */,
+				D9370579210927B800FFDB03 /* BuildsViewController.swift */,
+				D95061B121125A7A0086DAE9 /* CustomCells.swift */,
+				D95D596D210158D900AE53DD /* LoginViewController.swift */,
+				D95061B52113A6EB0086DAE9 /* TimerViewController.swift */,
+				D9370577210924D400FFDB03 /* JSONReader.swift */,
+				D95D599921039DD900AE53DD /* Model.swift */,
 				D95D596F210158D900AE53DD /* Main.storyboard */,
 				D95D59722101590A00AE53DD /* Assets.xcassets */,
 				D95D59742101590A00AE53DD /* LaunchScreen.storyboard */,
 				D95D59772101590A00AE53DD /* Info.plist */,
+				D93705732107965C00FFDB03 /* builds.json */,
 			);
 			path = "StarCraft 2 Build Timer";
 			sourceTree = "<group>";
@@ -231,6 +252,7 @@
 			files = (
 				D95D59762101590A00AE53DD /* LaunchScreen.storyboard in Resources */,
 				D95D59732101590A00AE53DD /* Assets.xcassets in Resources */,
+				D93705742107965C00FFDB03 /* builds.json in Resources */,
 				D95D5971210158D900AE53DD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -256,7 +278,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D95D596E210158D900AE53DD /* ViewController.swift in Sources */,
+				D9370578210924D400FFDB03 /* JSONReader.swift in Sources */,
+				D95D599A21039DD900AE53DD /* Model.swift in Sources */,
+				D95061B4211261700086DAE9 /* BuildsDetailViewController.swift in Sources */,
+				D937057A210927B800FFDB03 /* BuildsViewController.swift in Sources */,
+				D95061B62113A6EB0086DAE9 /* TimerViewController.swift in Sources */,
+				D95D596E210158D900AE53DD /* LoginViewController.swift in Sources */,
+				D95061B221125A7A0086DAE9 /* CustomCells.swift in Sources */,
 				D95D596C210158D900AE53DD /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

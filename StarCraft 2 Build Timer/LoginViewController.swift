@@ -1,26 +1,29 @@
-//
-//  ViewController.swift
-//  StarCraft 2 Build Timer
-//
-//  Created by Joe Carmody  on 7/19/18.
-//  Copyright © 2018 Joe Carmody . All rights reserved.
-//
-
 import UIKit
 
 class LoginViewController: UIViewController {
     
-    @IBOutlet weak var usernameTextField: UITextField!
-    @IBOutlet weak var passwordTextField: UITextField!
+    @IBOutlet weak var loginButton: UIButton!
+    @IBOutlet weak var titleLabel: UILabel!
+    @IBOutlet weak var sourceButton: UIButton!
+    @IBOutlet weak var spawningtoolLabel: UILabel!
+    
+    @IBAction func sourceButtonPressed(_ sender: Any){
+        UIApplication.shared.open(URL(string: "https://lotv.spawningtool.com/")! as URL, options: [:], completionHandler: nil)
+    }
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        titleLabel.text = "Starcraft 2 Build Order Timer"
+        spawningtoolLabel.text = "Build data from Spawning Tool"
     }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
+    }
+
+    @IBAction func loginTapped(_ sender: Any){
+        performSegue(withIdentifier: "Login", sender: (Any).self)
     }
 
 

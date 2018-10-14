@@ -1,31 +1,51 @@
-//
-//  BuildViewController.swift
-//  StarCraft 2 Build Timer
-//
-//  Created by Joe Carmody  on 7/25/18.
-//  Copyright © 2018 Joe Carmody . All rights reserved.
-//
-
-//import Foundation
 import UIKit
 
-class BuildViewController: UIViewController {
-    @IBOutlet weak var tableView: UITableView!
+class BuildsViewController: UIViewController {
     
-    let builds = Builds()
+    @IBOutlet weak var tableView: UITableView!
+
+    let buildContainer = Builds()
+    
+    @IBAction func protossButtonTapped(sender: Any){
+        buildContainer.updateBuilds(race: "P")
+    }
+    
+    @IBAction func terranButtonTapped(sender: Any){
+        buildContainer.updateBuilds(race: "T")
+    }
+    
+    @IBAction func zergButtonTapped(sender: Any){
+        buildContainer.updateBuilds(race: "Z")
+    }
+    
+    @IBAction func allButtonTapped(sender: Any){
+        buildContainer.updateBuilds(race: "A")
+    }
+    
     
     override func viewDidLoad() {
         super.viewDidLoad()
         tableView.dataSource = self
         tableView.delegate = self
-        model.delegate = self
+        buildContainer.delegate = self
+        tableView.rowHeight = UITableViewAutomaticDimension
     }
 
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        
+        if let destination = segue.destination as? BuildsDetailViewController,
+            let index = sender as? Int,
+            let build = buildContainer.getBuild(at: index) {
+            
+            destination.build = build
+            
+        }
+        
+    }
 }
 
-let build = Builds()
 
-extension BuildsViewController: BuildDelegate {
+extension BuildsViewController: BuildsDelegate {
     
     func dataUpdated() {
         tableView.reloadData()
@@ -33,35 +53,31 @@ extension BuildsViewController: BuildDelegate {
     
 }
 
-//extension BuildsViewController: UITableViewDelegate {
-//
-//    func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-//        let segueIdentifier = "showMovieDetail"
-//        performSegue(withIdentifier: segueIdentifier, sender: indexPath.row)
-//    }
-//
-//}
+extension BuildsViewController: UITableViewDelegate {
+
+    func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+        let segueIdentifier = "DetailViewSegue"
+        performSegue(withIdentifier: segueIdentifier, sender: indexPath.row)
+    }
+
+}
 
 extension BuildsViewController: UITableViewDataSource {
     
-    @IBOutlet weak var tableView: UITableView!
-    
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-        return builds.count
+        return buildContainer.count
     }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        let cellReuseIdentifier = "cell"
-        let cell = tableView.dequeueReusableCell(withIdentifier: cellReuseIdentifier, for: indexPath)
         
-        guard let build = builds.build(at: indexPath.row) else {
+        let cellReuseIdentifier = "cell"
+        let cell:CustomCells = self.tableView.dequeueReusableCell(withIdentifier: cellReuseIdentifier) as! CustomCells
+        
+        guard let build = buildContainer.getBuild(at: indexPath.row) else {
             return cell
         }
         
-        cell.textLabel?.text = build.title
-        //When turning data from Int to String can use this cast
-        //cell.detailTextLabel?.text = String(movie.year)
-        cell.matchupTextLabel?.text = build.matchup
+        cell.customTitleLabel.text = "\n\n" + build.matchup + " : " + build.title + "\n\n"
         return cell
     }
     
